@@ -4,7 +4,7 @@ Author: Yang Lin
 
 Supervisor: A/Prof. Weidong Xiao
 
-## C2000 digital signal processing (DSP) code 
+### C2000 digital signal processing (DSP) code 
 
 #### 1. Code for linear droop controller evaluation: 
 ##### LinearDroop.c
