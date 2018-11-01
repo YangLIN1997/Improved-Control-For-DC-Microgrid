@@ -6,15 +6,15 @@ Supervisor: A/Prof. Weidong Xiao
 
 ## C2000 digital signal processing (DSP) code 
 
-#### Code for linear droop controller evaluation: 
+#### 1. Code for linear droop controller evaluation: 
 ##### LinearDroop.c
 
 
-#### Code for non-linear droop controller evaluation: 
+#### 2. Code for non-linear droop controller evaluation: 
 ##### NonlinearDroop.c
 
 
-#### Code for poposed piecewise linear formation of droop strategy evaluation: 
+#### 3. Code for poposed piecewise linear formation of droop strategy evaluation: 
 ##### PLFDS.c
 
 
