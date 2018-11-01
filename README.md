@@ -1,5 +1,9 @@
 # Improved Control For DC Microgrid
 
+Author: Yang Lin
+
+Supervisor: A/Prof. Weidong Xiao
+
 ## C2000 digital signal processing (DSP) code 
 
 #### Code for linear droop controller evaluation: 
@@ -16,6 +20,3 @@
 
 
 
-Author: Yang Lin
-
-Supervisor: A/Prof. Weidong Xiao
