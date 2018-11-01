@@ -1,6 +1,6 @@
-include "DSP28x_Project.h" // Device Headerfile and Examples Include File
-include "math.h"#
-include "IQmathLib.h"
+#include "DSP28x_Project.h"     // Device Headerfile and Examples Include File
+#include "math.h"
+#include "IQmathLib.h"
 
 unsigned int c = 0;
 Uint16 Voltage[2];
