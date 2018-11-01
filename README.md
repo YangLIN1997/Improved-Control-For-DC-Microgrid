@@ -16,7 +16,7 @@ Supervisor: A/Prof. Weidong Xiao
  NonlinearDroop.c
 ```
 
-#### 3. Code for poposed piecewise linear formation of droop strategy evaluation: 
+#### 3. Code for proposed piecewise linear formation of droop strategy evaluation: 
 ```
  PLFDS.c
 ```
